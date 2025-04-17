@@ -1,0 +1,5 @@
+1. Instala esta dependencia si aun no la tienes instalada:
+python-decouple==3.8
+requests==2.32.3
+
+2. Configura la variables e entorno necesesaria para los proveedores a utilizar.
